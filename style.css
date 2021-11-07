@@ -1,0 +1,31 @@
+body {
+    background-color: lightcyan;
+    border: 10px solid cyan;
+}
+th {
+    text-align: center;
+    border-right: 1px solid cyan;
+}
+
+.mytitle {
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+    border-bottom-style: double;
+    border-bottom-width: 8px;
+    border-bottom-color: cyan;
+
+    margin-top: 30px;
+}
+.myp {
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.mytrborderlr {
+    border-right: 1px solid cyan;
+    border-left: 1px solid cyan;
+}
